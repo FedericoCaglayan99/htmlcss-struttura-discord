@@ -32,7 +32,7 @@ body {
     
 }
 .header :nth-child(1) {
-    height: 40em;
+    height: 55em;
     
 }
 .main :nth-child(1) {
@@ -55,4 +55,27 @@ background-color: white;
 .footer :nth-child(1) {
     height: 50em;
     background-color: black;
+}
+.innersquare {
+   
+   width: 55%;
+    height: 25em;
+    background-color: purple; 
+    position: absolute; 
+    margin-top: 10%;
+}
+.nav {
+    width: 40%;
+    height: 10em;
+    background-color: purple; 
+    position: absolute; 
+   top:0
+}
+.button {
+    width: 100px;
+    height: 100px;
+    background-color: purple; 
+    position: absolute; 
+    top: 0;
+    margin-left: 70%;
 }
